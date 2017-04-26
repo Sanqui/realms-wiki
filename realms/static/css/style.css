@@ -20,6 +20,8 @@ code {background-color: #2d2d2d; color: #ffafc3;}
 .navbar-brand {color: white;}
 .navbar-brand:hover {text-decoration: underline;}
 
+.diff {color: black;}
+
 .navbar {
   height: 50px !important;
   min-height: 49px !important;
